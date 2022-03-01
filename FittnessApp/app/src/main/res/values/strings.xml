@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">HFragmentSwitchNav</string>
+    <string name="alter">Alter :</string>
+    <string name="email">Email :</string>
+    <string name="fitniss_status">Fitniss Status :</string>
+    <string name="bluetooth_heartratesensor_verbinden">Bluetooth HeartrateSensor verbinden</string>
+    <string name="einstellungen">Einstellungen</string>
+    <string name="geschlecht">Geschlecht :</string>
+    <string name="gr_e">Größe :</string>
+    <string name="gewicht">Gewicht :</string>
+    <string name="name">Name :</string>
+    <string name="pace">0.00km/h</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

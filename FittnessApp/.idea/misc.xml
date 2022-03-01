@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Daniel/AndroidStudioProjects/FittnessAppHA/FittnessApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3638888888888889" />
+        <entry key="..\:/Users/Daniel/AndroidStudioProjects/FittnessAppHA/FittnessApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3638888888888889" />
+        <entry key="..\:/Users/Daniel/AndroidStudioProjects/FittnessAppHA/FittnessApp/app/src/main/res/layout/game_fragment.xml" value="0.2798913043478261" />
+        <entry key="..\:/Users/Daniel/AndroidStudioProjects/FittnessAppHA/FittnessApp/app/src/main/res/layout/hello_fragment.xml" value="0.2798913043478261" />
+        <entry key="..\:/Users/Daniel/AndroidStudioProjects/FittnessAppHA/FittnessApp/app/src/main/res/layout/loss_fragment.xml" value="0.2798913043478261" />
+        <entry key="..\:/Users/Daniel/AndroidStudioProjects/FittnessAppHA/FittnessApp/app/src/main/res/layout/main_activity.xml" value="0.2798913043478261" />
+        <entry key="..\:/Users/Daniel/AndroidStudioProjects/FittnessAppHA/FittnessApp/app/src/main/res/layout/win_fragment.xml" value="0.2798913043478261" />
+        <entry key="..\:/Users/Daniel/AndroidStudioProjects/FittnessAppHA/FittnessApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2638888888888889" />
+        <entry key="..\:/Users/Daniel/AndroidStudioProjects/FittnessAppHA/FittnessApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2638888888888889" />
+        <entry key="..\:/Users/Daniel/Desktop/3. Semester/Mobile Computing/FittnessAppHA/FittnessApp/BLHeartRateConnection/src/main/res/layout/activity_device_scan.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Daniel/Desktop/3. Semester/Mobile Computing/FittnessAppHA/FittnessApp/BLHeartRateConnection/src/main/res/layout/listitem_device.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Daniel/Desktop/3. Semester/Mobile Computing/FittnessAppHA/FittnessApp/app/src/main/res/layout/bike_fragment.xml" value="0.2869791666666667" />
+        <entry key="..\:/Users/Daniel/Desktop/3. Semester/Mobile Computing/FittnessAppHA/FittnessApp/app/src/main/res/layout/home_fragment.xml" value="0.23822463768115942" />
+        <entry key="..\:/Users/Daniel/Desktop/3. Semester/Mobile Computing/FittnessAppHA/FittnessApp/app/src/main/res/layout/settings_fragments.xml" value="0.5" />
+        <entry key="..\:/Users/Donto/Desktop/Medieninformatik/3. Semester/Mobile Computing/Hausarbeit/HA-App/FittnessApp/app/src/main/res/layout/track_fragment.xml" value="0.264" />
+        <entry key="..\:/Users/Sander/Desktop/Studium-3-Semester/Mobile Computing/Hausarbeit/FittnessApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.5703125" />
+        <entry key="..\:/Users/Sander/Desktop/Studium-3-Semester/Mobile Computing/Hausarbeit/FittnessApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.5703125" />
+        <entry key="..\:/Users/Sander/Desktop/Studium-3-Semester/Mobile Computing/Hausarbeit/FittnessApp/app/src/main/res/drawable/roundedbutton.xml" value="0.3828125" />
+        <entry key="..\:/Users/Sander/Desktop/Studium-3-Semester/Mobile Computing/Hausarbeit/FittnessApp/app/src/main/res/drawable/roundedbuttongreen.xml" value="0.3828125" />
+        <entry key="..\:/Users/Sander/Desktop/Studium-3-Semester/Mobile Computing/Hausarbeit/FittnessApp/app/src/main/res/drawable/roundedbuttonred.xml" value="0.3828125" />
+        <entry key="..\:/Users/Sander/Desktop/Studium-3-Semester/Mobile Computing/Hausarbeit/FittnessApp/app/src/main/res/layout/bike2_fragment.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/Sander/Desktop/Studium-3-Semester/Mobile Computing/Hausarbeit/FittnessApp/app/src/main/res/layout/bike3_fragment.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/Sander/Desktop/Studium-3-Semester/Mobile Computing/Hausarbeit/FittnessApp/app/src/main/res/layout/bike_fragment.xml" value="0.33" />
+        <entry key="..\:/Users/Sander/Desktop/Studium-3-Semester/Mobile Computing/Hausarbeit/FittnessApp/app/src/main/res/layout/cardio_fragment.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Sander/Desktop/Studium-3-Semester/Mobile Computing/Hausarbeit/FittnessApp/app/src/main/res/layout/game_fragment.xml" value="0.26766304347826086" />
+        <entry key="..\:/Users/Sander/Desktop/Studium-3-Semester/Mobile Computing/Hausarbeit/FittnessApp/app/src/main/res/layout/hello_fragment.xml" value="0.26766304347826086" />
+        <entry key="..\:/Users/Sander/Desktop/Studium-3-Semester/Mobile Computing/Hausarbeit/FittnessApp/app/src/main/res/layout/home_fragment.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Sander/Desktop/Studium-3-Semester/Mobile Computing/Hausarbeit/FittnessApp/app/src/main/res/layout/loss_fragment.xml" value="0.26766304347826086" />
+        <entry key="..\:/Users/Sander/Desktop/Studium-3-Semester/Mobile Computing/Hausarbeit/FittnessApp/app/src/main/res/layout/main_activity.xml" value="0.26766304347826086" />
+        <entry key="..\:/Users/Sander/Desktop/Studium-3-Semester/Mobile Computing/Hausarbeit/FittnessApp/app/src/main/res/layout/settings_fragments.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Sander/Desktop/Studium-3-Semester/Mobile Computing/Hausarbeit/FittnessApp/app/src/main/res/layout/surf_fragment.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/Sander/Desktop/Studium-3-Semester/Mobile Computing/Hausarbeit/FittnessApp/app/src/main/res/layout/surf_fragment2.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/Sander/Desktop/Studium-3-Semester/Mobile Computing/Hausarbeit/FittnessApp/app/src/main/res/layout/track_fragment.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Sander/Desktop/Studium-3-Semester/Mobile Computing/Hausarbeit/FittnessApp/app/src/main/res/layout/win_fragment.xml" value="0.26766304347826086" />
+        <entry key="..\:/Users/haida/OneDrive - Hochschule Flensburg/Hochschule Flensburg/Dritten Semester/Hausarbeit/FittnessApp/app/src/main/res/layout/bike_fragment.xml" value="0.540625" />
+        <entry key="..\:/Users/haida/OneDrive - Hochschule Flensburg/Hochschule Flensburg/Dritten Semester/Hausarbeit/FittnessApp/app/src/main/res/layout/cardio_fragment.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/haida/OneDrive - Hochschule Flensburg/Hochschule Flensburg/Dritten Semester/Hausarbeit/FittnessApp/app/src/main/res/layout/home_fragment.xml" value="0.5546875" />
+        <entry key="..\:/Users/haida/OneDrive - Hochschule Flensburg/Hochschule Flensburg/Dritten Semester/Hausarbeit/FittnessApp/app/src/main/res/layout/settings_fragments.xml" value="0.5546875" />
+        <entry key="..\:/Users/haida/OneDrive - Hochschule Flensburg/Hochschule Flensburg/Dritten Semester/Hausarbeit/FittnessApp/app/src/main/res/layout/win_fragment.xml" value="0.5546875" />
+        <entry key="..\:/hausArbeit/FittnessApp/app/src/main/res/layout/bike_fragment.xml" value="0.4" />
+        <entry key="..\:/hausArbeit/FittnessApp/app/src/main/res/layout/cardio_fragment.xml" value="0.1644021739130435" />
+        <entry key="..\:/hausArbeit/FittnessApp/app/src/main/res/layout/home_fragment.xml" value="0.16" />
+        <entry key="..\:/hausArbeit/FittnessApp/app/src/main/res/layout/main_activity.xml" value="0.16" />
+        <entry key="..\:/hausArbeit/FittnessApp/app/src/main/res/layout/settings_fragments.xml" value="0.16" />
+        <entry key="..\:/hausArbeit/FittnessApp/app/src/main/res/layout/surf_fragment.xml" value="0.2" />
+        <entry key="..\:/hausArbeit/FittnessApp/app/src/main/res/layout/win_fragment.xml" value="0.15760869565217392" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

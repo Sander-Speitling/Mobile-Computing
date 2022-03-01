@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a0fc4f88-8670-42a9-b9be-e524c86afcc7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/FittnessApp/BLHeartRateConnection/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FittnessApp/BLHeartRateConnection/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FittnessApp/BLHeartRateConnection/consumer-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FittnessApp/BLHeartRateConnection/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FittnessApp/BLHeartRateConnection/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FittnessApp/BLHeartRateConnection/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FittnessApp/BLHeartRateConnection/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FittnessApp/BLHeartRateConnection/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FittnessApp/BLHeartRateConnection/src/androidTest/java/de/hsfl/tjwa/blheartrateconnection/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FittnessApp/BLHeartRateConnection/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FittnessApp/BLHeartRateConnection/src/main/java/de/hsfl/tjwa/blheartrateconnection/HeartSensorController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FittnessApp/BLHeartRateConnection/src/main/java/de/hsfl/tjwa/blheartrateconnection/procedure/BluetoothController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FittnessApp/BLHeartRateConnection/src/main/java/de/hsfl/tjwa/blheartrateconnection/procedure/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FittnessApp/BLHeartRateConnection/src/main/java/de/hsfl/tjwa/blheartrateconnection/procedure/HeartRateGattCallback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FittnessApp/BLHeartRateConnection/src/main/java/de/hsfl/tjwa/blheartrateconnection/procedure/OnBluetoothListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FittnessApp/BLHeartRateConnection/src/main/java/de/hsfl/tjwa/blheartrateconnection/procedure/StateMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FittnessApp/BLHeartRateConnection/src/main/java/de/hsfl/tjwa/blheartrateconnection/scan/LeDeviceListAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FittnessApp/BLHeartRateConnection/src/main/java/de/hsfl/tjwa/blheartrateconnection/scan/LeDeviceScanActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FittnessApp/BLHeartRateConnection/src/main/res/layout/activity_device_scan.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FittnessApp/BLHeartRateConnection/src/main/res/layout/listitem_device.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FittnessApp/BLHeartRateConnection/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FittnessApp/BLHeartRateConnection/src/test/java/de/hsfl/tjwa/blheartrateconnection/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/FittnessAppHA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/FittnessAppHA.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FittnessApp/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FittnessApp/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FittnessApp/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FittnessApp/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FittnessApp/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/FittnessApp/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FittnessApp/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FittnessApp/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FittnessApp/app/src/main/java/com/example/androidstudio/FittnessApp/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/FittnessApp/app/src/main/java/com/example/androidstudio/FittnessApp/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FittnessApp/app/src/main/java/com/example/androidstudio/FittnessApp/ui/main/Cardio/CardioFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/FittnessApp/app/src/main/java/com/example/androidstudio/FittnessApp/ui/main/Cardio/CardioFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FittnessApp/app/src/main/java/com/example/androidstudio/FittnessApp/ui/main/Cardio/CardioViewModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/FittnessApp/app/src/main/java/com/example/androidstudio/FittnessApp/ui/main/Cardio/CardioViewModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FittnessApp/app/src/main/java/com/example/androidstudio/FittnessApp/ui/main/Home/HomeFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/FittnessApp/app/src/main/java/com/example/androidstudio/FittnessApp/ui/main/Home/HomeFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FittnessApp/app/src/main/java/com/example/androidstudio/FittnessApp/ui/main/Settings/SettingsFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/FittnessApp/app/src/main/java/com/example/androidstudio/FittnessApp/ui/main/Settings/SettingsFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FittnessApp/app/src/main/java/com/example/androidstudio/FittnessApp/ui/main/Track/TrackFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/FittnessApp/app/src/main/java/com/example/androidstudio/FittnessApp/ui/main/Track/TrackFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FittnessApp/app/src/main/res/layout/home_fragment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FittnessApp/app/src/main/res/layout/home_fragment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FittnessApp/app/src/main/res/layout/settings_fragments.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FittnessApp/app/src/main/res/layout/settings_fragments.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FittnessApp/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/FittnessApp/settings.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="22EFnuKgUdSu6xmdCgScm2YTtzH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0fc4f88-8670-42a9-b9be-e524c86afcc7" name="Default Changelist" comment="" />
+      <created>1639395010849</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639395010849</updated>
+    </task>
+    <servers />
+  </component>
+</project>

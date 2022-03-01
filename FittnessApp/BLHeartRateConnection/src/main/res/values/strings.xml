@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="missing_permission">Fehlende Berechtigung</string>
+    <string name="bluetooth_not_enabled">Bluetooth wurde nicht aktiviert</string>
+    <string name="bluetooth_not_available">Bluetooth nicht verfügbar</string>
+
+    <string name="no_selected_device">Es wurde kein Gerät ausgewählt</string>
+    <string name="start_search">Suche starten</string>
+    <string name="stop_search">Suche stoppen</string>
+    <string name="devices_found">Gefundene Geräte:</string>
+    <string name="unknown_device">Unbekanntes Gerät</string>
+
+    <string name="connect_latest_device">Letztes Gerät verbinden</string>
+    <string name="connect_new_device">Neues Gerät verbinden</string>
+    <string name="simulate_connection">Verbindung simulieren</string>
+
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="no_connection">Keine Verbindung</string>
+    <string name="connected_with">Verbunden mit:</string>
+    <string name="simulated_device">simuliertes Gerät</string>
+</resources>
